@@ -1,0 +1,39 @@
+body{
+	margin:0;
+	padding:0;
+	background: url('../images/greyzz.png');
+}
+
+#mainWrapper{
+	width: 960px;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+#heading, #option, #schema{
+	text-align: center;
+}
+h1, h2, p, #countdown{
+	font-family: 'Open Sans', calibri;
+}
+h1{
+	font-size: 4em;
+}
+#option h2{
+	font-size: 1em;
+}
+#countdown{
+	text-align: center;	
+}
+p {
+	font-size: 2em;
+}
+
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
